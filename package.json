@@ -12,6 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://yawokodjo.github.io/quantic-cd-cd",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -22,7 +23,8 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
+    ],
+    "settings": {}
   },
   "browserslist": {
     "production": [
